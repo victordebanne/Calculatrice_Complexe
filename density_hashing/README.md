@@ -1,4 +1,4 @@
-# partionnement de l'espace par densité à priori
+# partionnement de l'espace par densité à priori et recherche d'esperance $\mathcal{O}(1)$
 
 Le but ici est de trouver un partionnement de l'espace optimal pour une recherche du plus proche voisin lorsque la distribution des points n'est pas uniforme. 
 
